@@ -1,0 +1,13 @@
+iframe{
+    width: 100%;
+    height: 400px;
+}
+#map{
+    width: 50%
+}
+details{
+    text-align: left;
+}
+body{
+    background-image: linear-gradient(to bottom right,black,white,black,white,black,white,black,white);
+}
